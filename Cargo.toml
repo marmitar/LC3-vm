@@ -1,0 +1,8 @@
+[package]
+name = "lcvm"
+version = "0.1.0"
+authors = ["tiagodepalves <tiagodepalves@gmail.com>"]
+
+[dependencies]
+itertools = "*"
+nix = "*"
