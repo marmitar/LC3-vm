@@ -2,6 +2,7 @@
 name = "lcvm"
 version = "0.1.0"
 authors = ["tiagodepalves <tiagodepalves@gmail.com>"]
+license = "AGPL-3.0-or-later"
 
 [dependencies]
 itertools = "*"
